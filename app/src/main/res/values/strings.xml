@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">青涩小算</string>
+    <string name="calc_textview_hint">请输入数字</string>
+    <string name="clac_num1">1</string>
+    <string name="calc_num2">2</string>
+    <string name="calc_num3">3</string>
+    <string name="calc_num4">4</string>
+    <string name="calc_num5">5</string>
+    <string name="calc_num6">6</string>
+    <string name="calc_num7">7</string>
+    <string name="calc_num8">8</string>
+    <string name="calc_num9">9</string>
+    <string name="calc_num0">0</string>
+    <string name="calc_AC">AC</string>
+    <string name="calc_DEL">DEL</string>
+    <string name="calc_plus">+</string>
+    <string name="calc_point">.</string>
+    <string name="calc_mius">-</string>
+    <string name="calc_cheng">*</string>
+    <string name="calc_chu">/</string>
+    <string name="calc_equal">=</string>
+    <string name="calc_mod" >%</string>
+    <string name="calc_left_bracket">(</string>
+    <string name="calc_right_bracket">)</string>
+    <string name="calc_sin">sin(</string>
+    <string name="calc_cos">cos(</string>
+    <string name="calc_tan">tan(</string>
+</resources>
